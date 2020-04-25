@@ -1,0 +1,61 @@
+.heading {
+      color: #fff;
+      background:red;
+      text-transform: uppercase;
+      padding: 15px;
+      font-size: 20px;
+      letter-spacing: 1.5px;
+      margin-bottom: 60px;
+    }
+
+    form{
+     position: absolute;
+      margin-left: 50%;
+
+    }
+
+
+    p {
+      color: red;
+    }
+
+    input {
+      width: 500px;
+      border: none;
+      background: transparent;
+      border-bottom: 1.5px solid red;
+      padding: 10px;
+     margin-bottom: 20px;
+      color: black;
+      align-items: center;
+
+    }
+
+    button{
+    background-color:red;
+    border: none;
+     color: white;
+    padding: 18px 36px;
+    text-decoration: none;
+    margin: 5px 4px;
+    cursor: pointer;
+    }
+
+    #reg {
+        margin-left: 2%;
+    }
+
+    .login {
+        margin-top:-8%;
+        margin-left: 15%;
+
+    }
+    .body
+    {
+     margin-left: 5%;
+    }
+
+
+    .footer {
+      margin-top: 30%;
+    }
